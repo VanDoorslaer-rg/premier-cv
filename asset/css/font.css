@@ -1,0 +1,16 @@
+
+
+@font-face {
+    font-family: Lato-black;
+    src: url(../font/Lato-Black.woff);
+    src: url(../font/Lato-Black.ttf) format(truetype);
+    src: url(../font/Lato-Black.otf) format(opentype);
+    
+}
+
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(../font/Raleway-Medium.woff);
+    src: url(../font/Raleway-Medium.ttf) format(truetype);
+    src: url(../font/Raleway-Medium.otf) format(opentype);
+}
